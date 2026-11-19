@@ -217,8 +217,10 @@ Pré-requisitos: JDK 17, Docker, Oracle com o esquema do projeto e chaves RSA em
 | RM | Nome |
 |---|---|
 | 566385 | Diego Andrade dos Santos |
-| _RM_ | _Nome_ |
-| _RM_ | _Nome_ |
+| 561529 | Grazielle de Alencar Silva |
+| 564870 | Julia Corrêa e Souza |
+| 565572 | Rafael Kubagawa Ramos |
+| 566230 | Vinícius Soteras Braga |
 
 ## Links da entrega
 
