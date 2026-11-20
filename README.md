@@ -226,4 +226,4 @@ Pré-requisitos: JDK 17, Docker, Oracle com o esquema do projeto e chaves RSA em
 
 - Projeto no Azure DevOps: https://dev.azure.com/RM566385/Bairro%20Vivo
 - API em produção (Swagger): https://bairro-vivo-java-566385.azurewebsites.net/swagger-ui.html
-- Vídeo demonstrativo (YouTube): _link_
+- Vídeo demonstrativo (YouTube): https://www.youtube.com/watch?v=DgW_lD8b6Wk
